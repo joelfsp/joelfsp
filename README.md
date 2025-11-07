@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;Bacharel+Ciência+da+Computação;Pós-Graduando+em+Front-End;" alt="Headline" />
 </div>
 
-<h1 align="center">Olá 👋, Eu sou {SEU-NOME-AQUI}</h1>
+<h1 align="center">Olá 👋, Eu sou {Joel Ferreira}</h1>
 <h3 align="center">{Seu-cargo-aqui} residente em {Cidade-Estado}/{País}.</h3>
 <p align="center">{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}</p>
 
