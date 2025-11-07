@@ -7,8 +7,8 @@
 </div>
 
 <h1 align="center">Olá 👋, Eu sou {Joel Ferreira}</h1>
-<h3 align="center">{Seu-cargo-aqui} residente em {Cidade-Estado}/{País}.</h3>
-<p align="center">{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}</p>
+<h3 align="center">{Professor ensino médio e técnico} residente em {Embu das Artes-SP}/{Brasil}.</h3>
+<p align="center">{Já atuel no ramos de Poliamida (nylon 6), Manutenção de máquinas e equipamentos de movimentações logísticas, agora no ramo de educação que é algo que sempre desejei. Sou  prestativo, assíduo e apaixonado por tecnologia digital, IA, etc}</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manualdofront" /> </p>
 
